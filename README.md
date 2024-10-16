@@ -99,12 +99,15 @@ plt.show()
 ![Screenshot (9)](https://github.com/user-attachments/assets/78ba3aaf-b98f-45e3-be3a-09f68fd1b6aa)
 
 ### Moving Average
+![Screenshot (11)](https://github.com/user-attachments/assets/461f03fd-18cb-4fb5-84e8-6838d31a20d9)
 
 ### Plot Transform Dataset
+![Screenshot (10)](https://github.com/user-attachments/assets/a06fbab4-5366-4171-ad59-58f8f46b3856)
 
 ### Exponential Smoothing
+![Screenshot (12)](https://github.com/user-attachments/assets/b65dd623-d72a-44e6-a905-d0e3c8b20a2a)
 
 
 
 ## RESULT:
-Thus we have successfully implemented the Moving Average Model and Exponential smoothing using python.
+Thus, the program to implement the Moving Average Model and Exponential smoothing using python is executed successfully.
